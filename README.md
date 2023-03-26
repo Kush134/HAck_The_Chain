@@ -60,7 +60,6 @@ We're also running our custom algorithm to analyse and return the heartbeat in *
 ---
 
 ## Design 🎨
-
 We were heavily inspired by the revised version of **Double Diamond** design process, a model popularized by the [British Design Council](https://www.designcouncil.org.uk/our-work/news-opinion/double-diamond-universally-accepted-depiction-design-process/), which not only includes visual design, but a full-fledged research cycle in which you must discover and define your problem before tackling your solution & then finally deploy it.
 
 ![image](https://user-images.githubusercontent.com/48355572/220200827-a709ccb1-8c01-40c0-8371-f5c1d9f248b2.png)
